@@ -63,14 +63,14 @@ npm run dev
 ## 📂 Folder Structure
 bash:
 
-/app \n
-  └── page.js        # Main component \n
-  └── splash_screen.js \n
-/public \n
-  └── logo.jpg \n
-  └── github.png \n
-  └── linkedin.png \n
-  └── instagram.png \n
+/app 
+  └── page.js        # Main component 
+  └── splash_screen.js 
+/public 
+  └── logo.jpg 
+  └── github.png 
+  └── linkedin.png 
+  └── instagram.png 
 
 
 ## 📝 License
@@ -83,7 +83,7 @@ LinkedIn: Pritam Thopate
 
 Instagram: @pritamthopate
 
-##  Thanks
+##  🙌 Thanks
 
 Thank you for visiting my project!  
 I built this to learn and showcase modern web development practices using Next.js and Tailwind CSS.  
