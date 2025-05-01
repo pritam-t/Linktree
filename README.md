@@ -4,7 +4,7 @@ Welcome to my personal **Linktree-style portfolio** built using **Next.js** and 
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live](linktree-git-main-pritam-thopate.vercel.app)  
+👉 [Click here to view live](https://linktree-tau-one.vercel.app)  
 
 ---
 
@@ -20,11 +20,10 @@ Welcome to my personal **Linktree-style portfolio** built using **Next.js** and 
 
 ## 📸 Screenshots
 
-### Splash Screen  
-![Splash Screen](/Linktree/public/home.jpg)
-
-### Linktree Page  
-![Linktree](/Linktree/public/main.jpg)
+<div align="center">
+  <img src="public/home.jpg" alt="Splash Screen" width="45%" />
+  <img src="public/main.jpg" alt="Linktree Page" width="45%" />
+</div>
 
 ---
 
