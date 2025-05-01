@@ -48,7 +48,7 @@ export default function Home() {
           className="bg-[#F7E7D8] w-full h-[8vh] flex items-center justify-center gap-3 rounded-[10px] cursor-pointer transform transition-all duration-300 hover:bg-[#e1c7a5] hover:shadow-lg animate__animated animate__fadeInUp animate__delay-2s"
         >
           <Image
-            src="/github.PNG"
+            src="/github.png"
             alt="github logo"
             className="w-[6vh]"
             width={30}  // Adjust the width and height
@@ -69,7 +69,7 @@ export default function Home() {
           className="bg-[#F7E7D8] w-full h-[8vh] flex items-center justify-center gap-3 rounded-[10px] cursor-pointer transform transition-all duration-300 hover:bg-[#e1c7a5] hover:shadow-lg animate__animated animate__fadeInUp animate__delay-2s"
         >
           <Image
-            src="/linkedin.PNG"
+            src="/linkedin.png"
             alt="linkedin logo"
             className="w-[4vh]"
             width={30}  // Adjust the width and height
@@ -90,7 +90,7 @@ export default function Home() {
           className="bg-[#F7E7D8] w-full h-[8vh] flex items-center justify-center gap-3 rounded-[10px] cursor-pointer transform transition-all duration-300 hover:bg-[#e1c7a5] hover:shadow-lg animate__animated animate__fadeInUp animate__delay-2s"
         >
           <Image
-            src="/instagram.PNG"
+            src="/instagram.png"
             alt="instagram logo"
             className="w-[4vh]"
             width={30}  // Adjust the width and height
