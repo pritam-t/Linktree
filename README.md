@@ -46,28 +46,31 @@ Welcome to my personal **Linktree-style portfolio** built using **Next.js** and 
 
 2. Install dependencies
 
-bash:
-npm install
+ npm instal
 
+<br>
 
 3. Run the development server
 
-bash:
 npm run dev
 
+<br>
+
 4. Open http://localhost:3000 in your browser to see the result.
+
+<br>
 
 ## 📂 Folder Structure
 bash:
 
-/app
-  └── page.js        # Main component
-  └── splash_screen.js
-/public
-  └── logo.jpg
-  └── github.png
-  └── linkedin.png
-  └── instagram.png
+/app \n
+  └── page.js        # Main component \n
+  └── splash_screen.js \n
+/public \n
+  └── logo.jpg \n
+  └── github.png \n
+  └── linkedin.png \n
+  └── instagram.png \n
 
 
 ## 📝 License
